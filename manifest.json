@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Minimal New Tab",
+
+    "action": {
+        "default_popup": "./pages/popup.html"  
+    },
+
+    "chrome_url_overrides": {
+        "newtab": "./pages/new-tab.html"
+    }
+}

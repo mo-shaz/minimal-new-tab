@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Inter';
+    src: url("chrome-extension://__MSG_@@extension_id__/fonts/Inter-Regular.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter';
+}
+
+body {
+    width: 200px;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    user-select: none;
+}
+
+h3 {
+    color: #333333;
+}
+
+p {
+    margin: .25rem 0;
+}
+
+select {
+    margin: .25rem 0;
+}
+
+button {
+    cursor: pointer;
+}
