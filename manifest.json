@@ -2,6 +2,7 @@
     "manifest_version": 3,
     "version": "1.0.0",
     "name": "Minimal New Tab",
+    "description": "A chrome extension that replaces the default new tab with a minimal search-box with wallpapers from Unsplash.",
 
     "action": {
         "default_popup": "./pages/popup.html"  
