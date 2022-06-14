@@ -1,10 +1,8 @@
 # Minimal New Tab
 
----
-
-Web store links coming soon
-
----
+**Links**
+Firefox: [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimal-new-tab/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+Chromium: Not convinced enough to pay $5 to [Google](https://chrome.google.com/webstore/devconsole/register?hl=en "I'm poor")
 
 ## Usage
 
